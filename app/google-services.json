@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "797074727504",
+    "firebase_url": "https://myfirebaseauthapp-82f97.firebaseio.com",
+    "project_id": "myfirebaseauthapp-82f97",
+    "storage_bucket": "myfirebaseauthapp-82f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797074727504:android:382367bbbe414246",
+        "android_client_info": {
+          "package_name": "com.wingfotech.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797074727504-5vppb8o8u65p9tmh13vc1180o778sgie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Cg2MXRb2ABz3bpQjpCTJFR0VzCDu8tQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
